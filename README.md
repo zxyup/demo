@@ -27,7 +27,7 @@ $ X\stackrel{F}{\longrightarrow}Y $
 |:---:|:--:|:---:|
 |6|6|6|
  
-[![AzQG3.th.jpeg](https://i.328888.xyz/2022/12/22/AzQG3.th.jpeg)](https://imgloc.com/i/AzQG3)
+![AzQG3.th.jpeg](https://i.328888.xyz/2022/12/22/AzQG3.th.jpeg)](https://imgloc.com/i/AzQG3)
 <!-- ![1.jpg](/res/1.jpg "MM") -->
 ***
 ```
