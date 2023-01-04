@@ -1,0 +1,16 @@
+通用文字识别
+通用文字识别：https://aip.baidubce.com/rest/2.0/ocr/v1/general_basic
+通用文字识别（含位置信息版）：https://aip.baidubce.com/rest/2.0/ocr/v1/general
+通用文字识别（高精度版）：https://aip.baidubce.com/rest/2.0/ocr/v1/accurate_basic
+通用文字识别（高精度含位置版）：https://aip.baidubce.com/rest/2.0/ocr/v1/accurate
+
+卡证文字识别
+身份证识别：https://aip.baidubce.com/rest/2.0/ocr/v1/idcard
+银行卡识别：https://aip.baidubce.com/rest/2.0/ocr/v1/bankcard
+营业执照识别：https://aip.baidubce.com/rest/2.0/ocr/v1/business_license
+名片识别：https://aip.baidubce.com/rest/2.0/ocr/v1/business_card
+护照识别：https://aip.baidubce.com/rest/2.0/ocr/v1/passport
+户口本识别：https://aip.baidubce.com/rest/2.0/ocr/v1/household_register
+多卡证类别检测：https://aip.baidubce.com/rest/2.0/ocr/v1/multi_card_classify
+
+网络图片文字识别：https://aip.baidubce.com/rest/2.0/ocr/v1/webimage
