@@ -5,6 +5,7 @@
 
 import requests
 import json
+import os
 # import qs from 'qs'
 
 def douban_login():
