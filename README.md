@@ -27,8 +27,8 @@ $ X\stackrel{F}{\longrightarrow}Y $
 |:---:|:--:|:---:|
 |6|6|6|
  
-![AzQG3.th.jpeg](https://i.328888.xyz/2022/12/22/AzQG3.th.jpeg)](https://imgloc.com/i/AzQG3)
-<!-- ![1.jpg](/res/1.jpg "MM") -->
+[//]: # ([![AzQG3.th.jpeg]&#40;https://i.328888.xyz/2022/12/22/AzQG3.th.jpeg&#41;]&#40;https://imgloc.com/i/AzQG3&#41;)
+![1.jpg](/res/1.jpg "MM") 
 ***
 ```
 import taichi as ti
